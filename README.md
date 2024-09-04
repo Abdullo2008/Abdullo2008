@@ -4,7 +4,7 @@
 
 - 🌱 I’m currently learning **Django Rest framework**
 
-- 💬 Ask me about **python, aiogram, django, django rest framework**
+- 💬 Ask me about **python, aiogram, django, django rest**
 
 - 📫 How to reach me **igamberdiyevabdullo3@gmail.com**
 
